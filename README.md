@@ -12,5 +12,43 @@ begins with the room number, followed by a similar convention used for site iden
 
 ![interior](https://user-images.githubusercontent.com/76584053/159105285-2e8c91f4-2c16-4dd2-a1f1-ed6d15386e7f.png)
 <br/><br/>
+---
 
-Because the interior asset datasets span multiple floors, representing them with static maps here would be clunky to say the least. The interior asset data can be viewed by downloading 'interior_assets.gpkg' 
+Because the interior asset datasets span multiple floors, representing them with static maps here would be clunky to say the least. The interior asset data can be viewed by downloading 'interior_assets.gpkg' in the ZeroWaste_Survey folder.
+
+The exterior datasets are more two dimensional so below are four maps representing the most common assets groups are shown below. The full exterior asset data can be viewed by downloading 'exterior_assets.gdb' in the ZeroWaste_Survey folder.
+
+![dumpsters](https://user-images.githubusercontent.com/76584053/159109950-835ca715-72d5-4dc7-918f-28ebefbfdba8.png)
+<br/><br/>
+![Trashcan_PDO](https://user-images.githubusercontent.com/76584053/159109969-2afb0457-9361-473a-a651-5cf1a2ddcc68.png)
+<br/><br/>
+![barrel_toter](https://user-images.githubusercontent.com/76584053/159109989-455088c0-8371-4d09-91be-3f46f3817a39.png)
+<br/><br/>
+![compost](https://user-images.githubusercontent.com/76584053/159110001-2b670a52-58eb-4aca-9ee8-3ca3061640cf.png)
+
+---
+
+Table 1
+
+| ID | Type |
+| --- | --- |
+| 01 | GMP toter |
+| 02 | GMP barrel |
+| 03 | Paper toter |
+| 04 | Paper barrel |
+| 05 | 5-gallon bucket |
+| 06 | 32-gallon compost toter |
+| 07 | 48-gallon compost toter |
+| 08 | 96-gallon compost toter |
+| 09 | PDO |
+| 10 | Styrofoam toter |
+| 11 | Cardboard dumpster |
+| 12 | Garbage dumpster |
+| 13 | Trashcan |
+| 14 | MAX-R unit |
+| 15 | Built-in cabinet |
+| 16 | Bag-it rack |
+| 17 | Galvanized GMP can |
+| 18 | Galvanized paper can |
+| 19 | White step-bin |
+| 20 | Steel cabinet |
