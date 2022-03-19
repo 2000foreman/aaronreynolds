@@ -14,9 +14,9 @@ begins with the room number, followed by a similar convention used for site iden
 <br/><br/>
 ---
 
-Because the interior asset datasets span multiple floors, representing them with static maps here would be clunky to say the least. The interior asset data can be viewed by downloading 'interior_assets.gpkg' in the ZeroWaste_Survey folder.
+Because the interior asset datasets span multiple floors, representing them with static maps here would be clunky to say the least. The interior asset data can be viewed by downloading 'interior_assets.gpkg'.
 
-The exterior datasets are more two dimensional so below are four maps representing the most common assets groups are shown below. The full exterior asset data can be viewed by downloading 'exterior_assets.gdb' in the ZeroWaste_Survey folder.
+The exterior datasets are more two dimensional so below are four maps representing the most common assets groups are shown below. The full exterior asset data can be viewed by downloading the zipped 'exterior_assets.gdb'.
 
 ![dumpsters](https://user-images.githubusercontent.com/76584053/159109950-835ca715-72d5-4dc7-918f-28ebefbfdba8.png)
 <br/><br/>
