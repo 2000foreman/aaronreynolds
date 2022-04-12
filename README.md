@@ -14,7 +14,7 @@ begins with the room number, followed by a similar convention used for site iden
 <br/><br/>
 ---
 
-Because the interior asset datasets span multiple floors, representing them with static maps here would be clunky to say the least. The interior asset data can be viewed by downloading 'interior_assets.gpkg'.
+Because the interior asset datasets span multiple floors, representing them with static maps here would be clunky to say the least. The interior asset data can be viewed by downloading the zipped 'interior_assets.gdb'.
 
 The exterior datasets are more two dimensional so below are four maps representing the most common assets groups are shown below. The full exterior asset data can be viewed by downloading the zipped 'exterior_assets.gdb'.
 
